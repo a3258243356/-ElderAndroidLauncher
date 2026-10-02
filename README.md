@@ -3,7 +3,8 @@
 一个给老人用的 Android 桌面（Launcher）：超大时钟、大方格、一键拨号、语音报号、通话自动免提，
 并配一个 Magisk 模块把它锁死成系统默认桌面 —— 老人退不出去、误装不了 App、音量永远最大。
 
-目标机型：红米 K30i / Android 11（minSdk 30，targetSdk 37），其它 Android 8+ 设备一般也能跑。
+目标机型：红米 K30i / Android版本最低Android11及以上（minSdk 30，targetSdk 37），miui版本应至少12.5及以上，请给老人桌面授权root权限以及设置中授权所有权限（如定位等）
+当前软件均为免费给到大家使用，禁止售卖
 
 ---
 
